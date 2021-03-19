@@ -1,0 +1,15 @@
+name: Team Box
+icon: user
+fields:
+  name:
+    label: Name
+    type: text
+  position:
+    label: Position
+    type: text
+  email:
+    type: text
+    label: E-Mail
+  class:
+    type: text
+    label: Classes
